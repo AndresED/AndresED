@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés Esquivel</h1>
-<h3 align="center">Hello world, let me introduce myself, my name is Andrés Esquivel. I am a graduate of the Computer Engineering degree at the National University of Trujillo (Peru). Currently I am a Fullstack and Data Science developer in training. I specialized in the development of scalable web and mobile applications using technologies such as Javascript, Php, Python, Java, Go and Flutter.</h3>
+<p align="right">Hello world, let me introduce myself, my name is Andrés Esquivel. I am a graduate of the Computer Engineering degree at the National University of Trujillo (Peru). Currently I am a Fullstack and Data Science developer in training. I specialized in the development of scalable web and mobile applications using technologies such as Javascript, Php, Python, Java, Go and Flutter.</p>
 
 <p align="left"> <a href="https://twitter.com/andresedev" target="blank"><img src="https://img.shields.io/twitter/follow/andresedev?logo=twitter&style=for-the-badge" alt="andresedev" /></a> </p>
 
