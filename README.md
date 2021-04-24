@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés Esquivel</h1>
-<h3 align="center">Hello world, let me introduce myself, my name is Andrés Esquivel. I am a graduate of the Computer Engineering degree at the National University of Trujillo (Peru). Currently I am a Fullstack and Data Science developer in training. I specialized in the development of scalable web and mobile applications using technologies such as Javascript, Php, Python, Java, Go and Flutter.</h3>
+<p align="left">Hello world, let me introduce myself, my name is Andrés Esquivel. I am a graduate of the Computer Engineering degree at the National University of Trujillo (Peru). Currently I am a Fullstack and Data Science developer in training. I specialized in the development of scalable web and mobile applications using technologies such as Javascript, Php, Python, Java, Go and Flutter.</p>
 
 <p align="left"> <a href="https://twitter.com/andresedev" target="blank"><img src="https://img.shields.io/twitter/follow/andresedev?logo=twitter&style=for-the-badge" alt="andresedev" /></a> </p>
 
@@ -13,11 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/andresed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="andresed" height="30" width="40" /></a>
 <a href="https://twitter.com/andresedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="andresedev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andresedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="andresedev" height="30" width="40" /></a>
 <a href="https://instagram.com/makingcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="makingcode" height="30" width="40" /></a>
-<a href="https://medium.com/@andres30xed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@andres30xed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
