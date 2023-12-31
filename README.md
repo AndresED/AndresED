@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Golang and Arduino**
 
-- 👨‍💻 All of my projects are available at [[https://andresesquivel.dev/](https://andresesquivel.dev/)](https://www.andresed.dev/)
+- 👨‍💻 All of my projects are available at  https://www.andresed.dev/
 
 - 📝 I regularly write articles on [https://www.makingcode.dev/](https://www.makingcode.dev/)
 
