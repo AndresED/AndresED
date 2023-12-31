@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.makingcode.dev/](https://www.makingcode.dev/)
 
-- 📫 How to reach me **hi@andresesquivel.dev**
+- 📫 How to reach me **contacto@makingcode.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
