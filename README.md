@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Golang and Arduino**
 
-- 👨‍💻 All of my projects are available at [https://andresesquivel.dev/](https://andresesquivel.dev/)
+- 👨‍💻 All of my projects are available at [[https://andresesquivel.dev/](https://andresesquivel.dev/)](https://www.andresed.dev/)
 
 - 📝 I regularly write articles on [https://www.makingcode.dev/](https://www.makingcode.dev/)
 
@@ -13,6 +13,5 @@
 <p align="left">
 <a href="https://twitter.com/andresedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andresedev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andresedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andresedev" height="30" width="40" /></a>
-<a href="https://instagram.com/makingcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="makingcode" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/makingcodeorgcommunity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="makingcodeorgcommunity" height="30" width="40" /></a>
+
 </p>
