@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Andrés Esquivel</h1>
-<p align="left">Hello world, let me introduce myself, my name is Andrés Esquivel. I am a graduate of the Computer Engineering degree at the National University of Trujillo (Peru). Currently I am a Fullstack and Blockchain developer in training. I specialized in the development of scalable web and mobile applications using technologies such as Javascript, Php, Python, Java, Go and Flutter.</p>
+<p align="left">Backend developer with a passion for technology. I specialize in robust backend solutions, turning complex requirements into scalable infrastructures. Focused on overcoming technical challenges, I stay up-to-date with the latest trends and technologies. Currently, I am expanding my skills in the promising fields of blockchain and artificial intelligence, committed to integrating these disciplines into scalable and secure backend solutions.</p>
 
-- 🌱 I’m currently learning **Golang and Arduino**
+- 🌱 I’m currently learning **Python, Rust and JS**
 
 - 👨‍💻 All of my projects are available at  https://www.andresed.dev/
 
