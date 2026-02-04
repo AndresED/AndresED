@@ -1,17 +1,75 @@
-<h1 align="left">Hi 👋, I'm Andrés Esquivel</h1>
-<p align="left">Backend developer with a passion for technology. I specialize in robust backend solutions, turning complex requirements into scalable infrastructures. Focused on overcoming technical challenges, I stay up-to-date with the latest trends and technologies. Currently, I am expanding my skills in the promising fields of blockchain and artificial intelligence, committed to integrating these disciplines into scalable and secure backend solutions.</p>
+<h1 align="center">Hey 👋 I'm Andrés Esquivel</h1>
+<h3 align="center">Backend Engineer</h3>
 
-- 🌱 I’m currently learning **Python, Rust and JS**
+---
 
-- 👨‍💻 All of my projects are available at  https://www.andresed.dev/
+## 🚀 About Me
 
-- 📝 I regularly write articles on [https://www.makingcode.dev/](https://www.makingcode.dev/)
+I'm a **Senior Backend Developer** passionate about building **scalable, resilient, and well-architected systems**.  
+I specialize in transforming complex business requirements into **clean architectures and production-ready solutions**.
 
-- 📫 How to reach me **contacto@makingcode.dev**
+🧠 Strong focus on:
+- Backend architecture & system design  
+- Microservices & distributed systems  
+- Clean Architecture & Hexagonal Architecture  
+- Performance, scalability, and maintainability  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/andresedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andresedev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andresedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andresedev" height="30" width="40" /></a>
+I also mentor developers and help teams improve **code quality, structure, and engineering practices**.
 
-</p>
+---
+
+## 🧩 What I Work With
+
+### 🛠 Backend & APIs
+`Node.js` • `NestJS` • `Laravel` • `Python` • `FastAPI` • `Django`  
+`REST` • `GraphQL` • `WebSockets` • `Microservices`
+
+### 🗄 Databases
+`PostgreSQL` • `MongoDB` • `MySQL` • `Redis` • `DynamoDB`
+
+### ⚙️ Architecture & Infra
+`Docker` • `Kubernetes` • `CI/CD` • `Serverless`  
+`AWS (S3, EC2, Lambda, API Gateway, CloudFront)`  
+`GCP` • `Firebase`
+
+### 🔌 Messaging & Distributed Systems
+`NATS` • `RabbitMQ` • `Kafka` • `MQTT` • `gRPC`
+
+### 🧪 Quality & Practices
+`Jest` • Unit Testing • Integration Testing  
+Clean Code • SOLID • DDD • CQRS • Hexagonal Architecture
+
+---
+
+## 💼 Professional Highlights
+
+🔹 Led and mentored backend teams in multi-project environments  
+🔹 Designed scalable architectures for multi-tenant SaaS platforms  
+🔹 Built reusable integration libraries reducing MVP backend time by **30%**  
+🔹 Integrated 10+ third-party services (payments, logistics, accounting, etc.)  
+🔹 Improved system performance up to **40%** through backend and DB optimization  
+🔹 Experience with high-impact systems in production environments
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced system design  
+- AI + backend integrations  
+- Blockchain applications  
+- Performance optimization at scale  
+
+---
+
+## 🌍 Find Me Around the Web
+
+🌐 Website → **https://www.andresed.dev**  
+📝 Blog → **https://www.makingcode.dev**  
+💼 LinkedIn → **https://www.linkedin.com/in/andresedev**  
+📧 Email → **andres30xed@gmail.com**
+
+---
+
+## ⚡ Fun Fact
+
+I don’t just write code — I design systems meant to survive growth, scale, and real-world chaos.
