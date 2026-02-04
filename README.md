@@ -1,5 +1,4 @@
 <h1 align="center">Hey 👋 I'm Andrés Esquivel</h1>
-<h3 align="center">Backend Engineer</h3>
 
 ---
 
@@ -13,8 +12,6 @@ I specialize in transforming complex business requirements into **clean architec
 - Microservices & distributed systems  
 - Clean Architecture & Hexagonal Architecture  
 - Performance, scalability, and maintainability  
-
-I also mentor developers and help teams improve **code quality, structure, and engineering practices**.
 
 ---
 
