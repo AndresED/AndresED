@@ -1,42 +1,59 @@
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,30:1F6FEB,70:58A6FF,100:38BDF8&text=Andres%20Esquivel&fontColor=FFFFFF&fontSize=48&animation=fadeIn&fontAlignY=38"/>
+
 # Hi, I'm Andres Esquivel 👋
 
-### Senior Backend Engineer • Distributed Systems • AWS • AI Engineering
+### Senior Backend Engineer • Technical Lead • Cloud Architect • AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Backend+Engineer;NestJS+%7C+Node.js+%7C+TypeScript;Python+%7C+FastAPI+%7C+AWS;DDD+%7C+CQRS+%7C+Hexagonal+Architecture;Event-Driven+Architecture;AI+Engineering+%7C+LangChain+%7C+LangGraph" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&center=true&vCenter=true&width=900&lines=Senior+Backend+Engineer;NestJS+%7C+Node.js+%7C+TypeScript;Python+%7C+FastAPI+%7C+AWS;DDD+%7C+CQRS+%7C+Hexagonal+Architecture;Event-Driven+Architecture;AI+Agents+%7C+LangChain+%7C+LangGraph;Building+Scalable+SaaS+Platforms"/>
 
 <p>
 <a href="https://www.linkedin.com/in/andresedev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.andresed.dev"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://makingcode.dev"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<a href="mailto:andres30xed@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=AndresED&style=for-the-badge)
 
 </div>
 
 ---
 
-# About Me
+# 🚀 About Me
 
-I'm a **Senior Backend Engineer** focused on designing scalable distributed systems and cloud-native platforms.
+```yaml
+name: Andres Esquivel
 
-- 🏗 Domain-Driven Design (DDD)
-- ⚡ CQRS & Event-Driven Architecture
-- 🧩 Hexagonal Architecture
-- ☁ AWS & Google Cloud
-- 🤖 AI Agents, RAG, LangChain & LangGraph
-- 🚀 High-performance APIs
-- 🏢 Multi-Tenant SaaS
+role: Senior Backend Engineer
+
+focus:
+  - Distributed Systems
+  - Domain Driven Design
+  - Hexagonal Architecture
+  - Event Driven Architecture
+  - AI Engineering
+  - Cloud Native
+  - Multi Tenant SaaS
+
+experience:
+  - Healthcare
+  - Fintech
+  - Logistics
+  - Ecommerce
+  - Enterprise SaaS
+```
 
 ---
 
-# Tech Stack
+# 🛠 Tech Stack
 
 ## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,go,php"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,php,java"/>
 </p>
 
 ## Backend
@@ -45,10 +62,16 @@ I'm a **Senior Backend Engineer** focused on designing scalable distributed syst
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi"/>
 </p>
 
-## Cloud & DevOps
+## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,firebase"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind"/>
+</p>
+
+## Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,kubernetes,terraform"/>
 </p>
 
 ## Databases
@@ -57,57 +80,65 @@ I'm a **Senior Backend Engineer** focused on designing scalable distributed syst
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
 </p>
 
-## Tools
+## DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,bash,vscode"/>
 </p>
 
 ---
 
-# Architecture
+# 🏗 Architecture
 
-| Architecture | Expertise |
-|--------------|-----------|
+| Area | Level |
+|------|------|
 | Domain Driven Design | ⭐⭐⭐⭐⭐ |
 | Hexagonal Architecture | ⭐⭐⭐⭐⭐ |
 | CQRS | ⭐⭐⭐⭐⭐ |
-| Event-Driven | ⭐⭐⭐⭐⭐ |
+| Event Driven | ⭐⭐⭐⭐⭐ |
 | Distributed Systems | ⭐⭐⭐⭐⭐ |
-| Modular Monolith | ⭐⭐⭐⭐⭐ |
+| Multi Tenant SaaS | ⭐⭐⭐⭐⭐ |
+| Clean Architecture | ⭐⭐⭐⭐⭐ |
 | Microservices | ⭐⭐⭐⭐☆ |
 
 ---
 
-# AI Engineering
+# 🤖 AI Engineering
 
-- OpenAI
-- Claude
-- Amazon Bedrock
-- LangChain
-- LangGraph
-- MCP
-- Retrieval Augmented Generation (RAG)
-
----
-
-# Featured Projects
-
-## 🤖 AI Engineer Academy
-Practical examples using AI Agents, LangChain, LangGraph and RAG.
-
-## 🏛 NestJS Enterprise
-Enterprise-grade architecture using DDD, CQRS and Hexagonal Architecture.
-
-## ☁ AWS Developer Associate
-Notes, labs and real-world AWS examples.
-
-## ⚙ JavaScript Internals
-Deep dive into the JavaScript runtime and asynchronous programming.
+<table>
+<tr>
+<td>✔ OpenAI</td>
+<td>✔ Claude</td>
+<td>✔ Amazon Bedrock</td>
+</tr>
+<tr>
+<td>✔ LangChain</td>
+<td>✔ LangGraph</td>
+<td>✔ MCP</td>
+</tr>
+<tr>
+<td>✔ AI Agents</td>
+<td>✔ RAG</td>
+<td>✔ Prompt Engineering</td>
+</tr>
+</table>
 
 ---
 
-# GitHub Analytics
+# ⭐ Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| AI Engineer Academy | AI Agents, LangChain, LangGraph & RAG |
+| NestJS Enterprise | Enterprise Backend Architecture |
+| AWS Developer Associate | Labs & Notes |
+| JavaScript Internals | Runtime, Event Loop & Async |
+| TypeScript Academy | Enterprise TypeScript |
+| Go Academy | Backend with Go |
+
+---
+
+# 📊 GitHub Dashboard
 
 <div align="center">
 
@@ -123,47 +154,59 @@ Deep dive into the JavaScript runtime and asynchronous programming.
 
 ---
 
-# Currently Learning
+# ☁ AWS
+
+- EC2
+- Lambda
+- ECS
+- Cloud Run
+- S3
+- IAM
+- Athena
+- SNS
+- SQS
+- EventBridge
+- CloudFormation
+
+---
+
+# 📚 Currently Studying
 
 - AWS Developer Associate
-- AI Agent Architectures
+- AI Agents
+- Platform Engineering
 - Event Sourcing
 - Distributed Messaging
-- Platform Engineering
+- Kubernetes
 
 ---
 
-# Let's Connect
+# 📈 Career Goals
 
-<p align="center">
-<a href="mailto:andres30xed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/andresedev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://makingcode.dev"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
-<a href="https://www.andresed.dev"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-</p>
+- Build world-class backend platforms.
+- Design scalable distributed systems.
+- Create AI-powered enterprise software.
+- Share knowledge through blog posts and open source.
 
 ---
+
+# 📫 Connect
 
 <div align="center">
 
-> *"Build software that scales not only in traffic, but also in maintainability."*
-
-![](https://komarev.com/ghpvc/?username=AndresED&style=for-the-badge)
+<a href="https://www.linkedin.com/in/andresedev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.andresed.dev"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=googlechrome"/></a>
+<a href="https://makingcode.dev"><img src="https://img.shields.io/badge/Blog-orange?style=for-the-badge&logo=hashnode"/></a>
 
 </div>
 
-<!--
-Optional additions:
+---
 
-Snake animation:
-https://github.com/Platane/snk
 
-Metrics:
-https://github.com/lowlighter/metrics
+<div align="center">
 
-Trophies:
-https://github.com/ryo-ma/github-profile-trophy
+### Thanks for visiting!
 
-WakaTime:
-https://github.com/anmol098/waka-readme-stats
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:38BDF8,100:0D1117"/>
+
+</div>
