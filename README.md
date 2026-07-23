@@ -1,72 +1,169 @@
-<h1 align="center">Hey 👋 I'm Andrés Esquivel</h1>
+
+<div align="center">
+
+# Hi, I'm Andres Esquivel 👋
+
+### Senior Backend Engineer • Distributed Systems • AWS • AI Engineering
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Backend+Engineer;NestJS+%7C+Node.js+%7C+TypeScript;Python+%7C+FastAPI+%7C+AWS;DDD+%7C+CQRS+%7C+Hexagonal+Architecture;Event-Driven+Architecture;AI+Engineering+%7C+LangChain+%7C+LangGraph" />
+
+<p>
+<a href="https://www.linkedin.com/in/andresedev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.andresed.dev"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://makingcode.dev"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# About Me
 
-I'm a **Senior Backend Developer** passionate about building **scalable, resilient, and well-architected systems**.  
-I specialize in transforming complex business requirements into **clean architectures and production-ready solutions**.
+I'm a **Senior Backend Engineer** focused on designing scalable distributed systems and cloud-native platforms.
 
-🧠 Strong focus on:
-- Backend architecture & system design  
-- Microservices & distributed systems  
-- Clean Architecture & Hexagonal Architecture  
-- Performance, scalability, and maintainability  
-
----
-
-## 🧩 What I Work With
-
-### 🛠 Backend & APIs
-`Node.js` • `NestJS` • `Laravel` • `Python` • `FastAPI` • `Django`  
-`REST` • `GraphQL` • `WebSockets` • `Microservices`
-
-### 🗄 Databases
-`PostgreSQL` • `MongoDB` • `MySQL` • `Redis` • `DynamoDB`
-
-### ⚙️ Architecture & Infra
-`Docker` • `Kubernetes` • `CI/CD` • `Serverless`  
-`AWS (S3, EC2, Lambda, API Gateway, CloudFront)`  
-`GCP` • `Firebase`
-
-### 🔌 Messaging & Distributed Systems
-`NATS` • `RabbitMQ` • `Kafka` • `MQTT` • `gRPC`
-
-### 🧪 Quality & Practices
-`Jest` • Unit Testing • Integration Testing  
-Clean Code • SOLID • DDD • CQRS • Hexagonal Architecture
+- 🏗 Domain-Driven Design (DDD)
+- ⚡ CQRS & Event-Driven Architecture
+- 🧩 Hexagonal Architecture
+- ☁ AWS & Google Cloud
+- 🤖 AI Agents, RAG, LangChain & LangGraph
+- 🚀 High-performance APIs
+- 🏢 Multi-Tenant SaaS
 
 ---
 
-## 💼 Professional Highlights
+# Tech Stack
 
-🔹 Led and mentored backend teams in multi-project environments  
-🔹 Designed scalable architectures for multi-tenant SaaS platforms  
-🔹 Built reusable integration libraries reducing MVP backend time by **30%**  
-🔹 Integrated 10+ third-party services (payments, logistics, accounting, etc.)  
-🔹 Improved system performance up to **40%** through backend and DB optimization  
-🔹 Experience with high-impact systems in production environments
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,php"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi"/>
+</p>
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,firebase"/>
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash"/>
+</p>
 
 ---
 
-## 📚 Currently Exploring
+# Architecture
 
-- Advanced system design  
-- AI + backend integrations  
-- Blockchain applications  
-- Performance optimization at scale  
-
----
-
-## 🌍 Find Me Around the Web
-
-🌐 Website → **https://www.andresed.dev**  
-📝 Blog → **https://www.makingcode.dev**  
-💼 LinkedIn → **https://www.linkedin.com/in/andresedev**  
-📧 Email → **andres30xed@gmail.com**
+| Architecture | Expertise |
+|--------------|-----------|
+| Domain Driven Design | ⭐⭐⭐⭐⭐ |
+| Hexagonal Architecture | ⭐⭐⭐⭐⭐ |
+| CQRS | ⭐⭐⭐⭐⭐ |
+| Event-Driven | ⭐⭐⭐⭐⭐ |
+| Distributed Systems | ⭐⭐⭐⭐⭐ |
+| Modular Monolith | ⭐⭐⭐⭐⭐ |
+| Microservices | ⭐⭐⭐⭐☆ |
 
 ---
 
-## ⚡ Fun Fact
+# AI Engineering
 
-I don’t just write code — I design systems meant to survive growth, scale, and real-world chaos.
+- OpenAI
+- Claude
+- Amazon Bedrock
+- LangChain
+- LangGraph
+- MCP
+- Retrieval Augmented Generation (RAG)
+
+---
+
+# Featured Projects
+
+## 🤖 AI Engineer Academy
+Practical examples using AI Agents, LangChain, LangGraph and RAG.
+
+## 🏛 NestJS Enterprise
+Enterprise-grade architecture using DDD, CQRS and Hexagonal Architecture.
+
+## ☁ AWS Developer Associate
+Notes, labs and real-world AWS examples.
+
+## ⚙ JavaScript Internals
+Deep dive into the JavaScript runtime and asynchronous programming.
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndresED&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresED&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=AndresED&theme=tokyonight&hide_border=true"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AndresED&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# Currently Learning
+
+- AWS Developer Associate
+- AI Agent Architectures
+- Event Sourcing
+- Distributed Messaging
+- Platform Engineering
+
+---
+
+# Let's Connect
+
+<p align="center">
+<a href="mailto:andres30xed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/andresedev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://makingcode.dev"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<a href="https://www.andresed.dev"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</p>
+
+---
+
+<div align="center">
+
+> *"Build software that scales not only in traffic, but also in maintainability."*
+
+![](https://komarev.com/ghpvc/?username=AndresED&style=for-the-badge)
+
+</div>
+
+<!--
+Optional additions:
+
+Snake animation:
+https://github.com/Platane/snk
+
+Metrics:
+https://github.com/lowlighter/metrics
+
+Trophies:
+https://github.com/ryo-ma/github-profile-trophy
+
+WakaTime:
+https://github.com/anmol098/waka-readme-stats
+-->
